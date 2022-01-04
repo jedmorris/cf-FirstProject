@@ -29,3 +29,7 @@ body {
 #greenDiv{
    background-color: green;
 }
+
+footer > div > span.text-muted-custom {
+   color: red;
+}
