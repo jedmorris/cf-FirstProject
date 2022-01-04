@@ -8,3 +8,24 @@ main>.container {
    bottom: 0;
    width: 100%;
 }
+div .sticky-footer{
+   background-color: #ff993b;
+}
+/* Things we can target: 
+Elements- Everything on the page ( a, div, p)
+Class- Some of the things on the page ("user" defined) 
+Id- One thing on the page (Id's are unique)
+
+Id > Class > Element
+
+*/
+
+body {
+   background-color: #ff993b;
+}
+.rebeccaDiv{
+   background-color: rebeccapurple;
+}
+#greenDiv{
+   background-color: green;
+}
